@@ -25,11 +25,11 @@ Keywords: GAN, Cycle GAN, Densenet, Resnet, Batch-norm, Instance-norm, Tensorflo
 
 1. Loss
 
-   ![loss](assets\1.png)
+   ![loss](https://github.com/HelloSilicat/Modification-on-DPED/blob/master/assets/1.png)
 
 2. Visual improvement(iteration 1000 and iteration 19000)
 
-   ![loss](assets\2.png)
+   ![loss](https://github.com/HelloSilicat/Modification-on-DPED/blob/master/assets/2.png)
 
-   ![loss](assets\3.png)
+   ![loss](https://github.com/HelloSilicat/Modification-on-DPED/blob/master/assets/3.png)
 
